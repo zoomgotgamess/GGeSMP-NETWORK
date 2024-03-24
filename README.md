@@ -41,6 +41,6 @@ seventh tab: `cd bridging && sudo java -jar server.jar`
 eight tab: `cd kitpvp && sudo java -jar server.jar`
 <br>
 <br>
-Now go to the ports area and forward (and make public) ports `25565` and `8081`
+Now go to the ports area and forward ports `25565` and `8081`. Make port `8081` public <strong>EVERY TIME</strong> you start the server.
 <br>
 Your eaglercraft server is setup!
