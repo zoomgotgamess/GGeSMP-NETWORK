@@ -1,0 +1,53 @@
+# RPGHealthPlus v1.2.0
+configuration:
+  max-hp: 40
+  starting-hp: 20
+  needed-xp-is-hp-multiplied-by: 20
+  xp-percentage-from-mobspawners: 20
+  xp-lost-on-death-multiplier: 1.0
+  xpmessages: true
+  save-player-names: false
+  disable-in-creative: true
+  reset-hp-on-death: false
+  damage-multiplier: false
+  use-extra-permissions: false
+  heal-after-world-change: false
+  enable-sounds: true
+  check-for-updates: true
+mobs-xp:
+  BAT: 2
+  BLAZE: 7
+  CAVE_SPIDER: 4
+  CHICKEN: 1
+  COW: 2
+  CREEPER: 4
+  ENDER_DRAGON: 350
+  ENDERMAN: 8
+  GHAST: 8
+  GIANT: 120
+  HORSE: 4
+  IRON_GOLEM: 14
+  MAGMA_CUBE: 5
+  MUSHROOM_COW: 3
+  OCELOT: 2
+  PIG: 1
+  PIG_ZOMBIE: 6
+  PLAYER: 0
+  SHEEP: 1
+  SILVERFISH: 4
+  SKELETON: 3
+  SLIME: 1
+  SNOWMAN: 2
+  SPIDER: 3
+  SQUID: 2
+  VILLAGER: 5
+  WITCH: 8
+  WITHER: 140
+  WOLF: 3
+  ZOMBIE: 2
+  ENDERMITES: 2
+  GUARDIANS: 4
+  RABBIT: 1
+nonaffected-worlds:
+- exampleworldname1
+- exampleworldname2

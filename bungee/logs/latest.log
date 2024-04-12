@@ -1,0 +1,65 @@
+[18:14:26] [main/INFO]: Using mbed TLS based native cipher.
+[18:14:26] [main/INFO]: Using zlib based native compressor.
+[18:14:26] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[18:14:26] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[18:14:26] [main/INFO]: Epoll is working, utilising it!
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[18:14:26] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:26] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:26] [main/WARN] [ViaVersion]:       / \
+[18:14:26] [main/WARN] [ViaVersion]:      /   \
+[18:14:26] [main/WARN] [ViaVersion]:     /  |  \
+[18:14:26] [main/WARN] [ViaVersion]:    /   |   \         BUNGEECORD IS OUTDATED
+[18:14:26] [main/WARN] [ViaVersion]:   /         \   VIAVERSION MAY NOT WORK AS INTENDED
+[18:14:26] [main/WARN] [ViaVersion]:  /     o     \
+[18:14:26] [main/WARN] [ViaVersion]: /_____________\
+[18:14:27] [main/INFO]: Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[18:14:27] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:27] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:27] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:27] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[18:14:27] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[18:14:27] [main/WARN]: :>  apart from the versions listed below:
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[18:14:27] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[18:14:27] [main/WARN]: :>  - FlameCord: 1.1.1
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[18:14:27] [main/WARN]: :>  
+[18:14:27] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[18:14:27] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[18:14:28] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[18:14:28] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[18:14:29] [main/WARN]: Forced host server pvp is not defined
+[18:14:29] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:29] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:29] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/GGeSMP-NETWORK/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[18:14:30] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
+[18:14:30] [main/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[18:14:30] [main/INFO] [ViaVersion]: Highest supported version by the proxy: 1.19.3 (761)
+[18:14:30] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
+[18:14:30] [main/INFO]: Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[18:14:30] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:30] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:30] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:30] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[18:14:30] [Netty Worker IO Thread #3/ERROR] [EaglercraftXBungee]: Eaglercraft could not bind port: /0.0.0.0:8081
+[18:14:30] [Netty Worker IO Thread #3/ERROR] [EaglercraftXBungee]: Reason: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[18:14:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[18:14:31] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
+[18:14:31] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[18:14:31] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
