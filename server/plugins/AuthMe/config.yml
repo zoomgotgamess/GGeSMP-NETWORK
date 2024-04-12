@@ -176,7 +176,7 @@ settings:
         # You can use * as wildcard (127.0.0.*), or regex with a "regex:" prefix regex:127\.0\.0\..*
         # Example:
         #     AllowedRestrictedUser:
-        #     - playername;127.0.0.1
+        #     - Zoomgotgame;127.0.0.1
         #     - playername;regex:127\.0\.0\..*
         AllowedRestrictedUser: []
         # Ban unknown IPs trying to log in with a restricted username?
@@ -229,7 +229,7 @@ settings:
         # UnrestrictedName:
         # - 'npcPlayer'
         # - 'npcPlayer2'
-        UnrestrictedName: []
+        UnrestrictedName: [Zoomgotgame]
         # Below you can list all inventories names that AuthMe will ignore
         # for registration or login. Configure it at your own risk!!
         # This option adds compatibility with some mods.

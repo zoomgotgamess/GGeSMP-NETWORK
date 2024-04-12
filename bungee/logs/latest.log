@@ -63,3 +63,6 @@
 [18:14:31] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [18:14:31] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[18:27:16] [main/INFO]: Command not found
+[18:37:48] [main/INFO]: Command not found
+[18:37:51] [main/INFO]: Command not found

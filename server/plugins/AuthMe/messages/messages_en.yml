@@ -24,8 +24,8 @@ password:
 # Login
 login:
   command_usage: '&cUsage: /login <password>'
-  wrong_password: '&cWrong password!'
-  success: '&2Successful login!'
+  wrong_password: '&cINTRUDER PLEASE ENTER CORECT PASS OR BE BANNED IF THIS IS A MASTAKE OR YOU FORGOT YOUR PASSWORK GIVE OWNER A DM!'
+  success: '&2WEALCOME FELLOW ASSASAN!'
   login_request: '&cPlease, login with the command: /login <password>'
   timeout_error: '&4Login timeout exceeded, you have been kicked from the server, please try again!'
 
