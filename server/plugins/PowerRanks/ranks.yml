@@ -2,51 +2,61 @@ Moderator:
   permissions: []
   inheritances: []
   weight: 50
+  default: false
   namecolor: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
-  default: false
   suffix: ''
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
 Owner:
-  permissions: []
+  permissions:
+  - name: Magic
+    value: true
+  - name: essentials
+    value: true
+  - name: '*'
+    value: true
+  - name: pvpmanager
+    value: true
+  - name: minecraft
+    value: true
   inheritances: []
   weight: 100
+  default: false
   namecolor: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
-  default: false
   suffix: ''
   prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
 Admin:
   permissions: []
   inheritances: []
   weight: 75
+  default: false
   namecolor: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
-  default: false
   suffix: ''
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
 Member:
   permissions: []
   inheritances: []
   weight: 0
+  default: true
   namecolor: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
-  default: true
   suffix: ''
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'

@@ -1,8 +1,14 @@
 [
   {
-    "uuid": "b231b8cb-9909-3791-90fd-cbd25ef26d9f",
-    "name": "Zoomgotgame",
+    "uuid": "d8195f8b-abda-3d31-9c6b-ec9350b32262",
+    "name": "Agggpro1",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b231b8cb-9909-3791-90fd-cbd25ef26d9f",
+    "name": "Zoomgotgame",
+    "level": 100,
+    "bypassesPlayerLimit": true
   }
 ]

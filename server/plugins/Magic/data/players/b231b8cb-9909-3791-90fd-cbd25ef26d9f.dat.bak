@@ -1,0 +1,371 @@
+id: b231b8cb-9909-3791-90fd-cbd25ef26d9f
+name: Zoomgotgame
+last_cast: 1713554477573
+cooldown_expiration: 0
+last_death_location: -99.96392959062969,70.0,233.44402488994226,world,185.85002,12.150001
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+- world: world
+  blocks:
+  - 12,64,162,world|3:0
+  - 12,65,162,world|2:0
+  - 11,64,162,world|3:0
+  - 11,65,162,world|2:0
+  - 10,64,162,world|3:0
+  - 10,65,162,world|2:0
+  - 12,64,163,world|3:0
+  - 12,65,163,world|2:0
+  - 11,64,163,world|3:0
+  - 11,65,163,world|2:0
+  - 10,64,163,world|3:0
+  - 10,65,163,world|2:0
+  - 12,64,164,world|3:0
+  - 12,65,164,world|3:0
+  - 12,66,164,world|2:0
+  - 11,64,164,world|3:0
+  - 11,65,164,world|3:0
+  - 11,66,164,world|2:0
+  - 10,64,164,world|3:0
+  - 10,65,164,world|3:0
+  - 10,66,164,world|2:0
+  - 12,64,165,world|3:0
+  - 12,65,165,world|3:0
+  - 12,66,165,world|2:0
+  - 11,64,165,world|3:0
+  - 11,65,165,world|3:0
+  - 11,66,165,world|2:0
+  - 10,64,165,world|3:0
+  - 10,65,165,world|3:0
+  - 10,66,165,world|2:0
+  - 10,67,165,world|31:1
+  - 12,64,166,world|3:0
+  - 12,65,166,world|3:0
+  - 12,66,166,world|3:0
+  - 11,64,166,world|3:0
+  - 11,65,166,world|3:0
+  - 11,66,166,world|3:0
+  - 10,64,166,world|3:0
+  - 10,65,166,world|3:0
+  - 10,66,166,world|3:0
+  - 12,65,167,world|3:0
+  - 12,66,167,world|3:0
+  - 11,64,167,world|3:0
+  - 11,65,167,world|3:0
+  - 11,66,167,world|3:0
+  - 10,64,167,world|3:0
+  - 10,65,167,world|3:0
+  - 10,66,167,world|3:0
+  - 12,64,168,world|1:0
+  - 12,66,168,world|3:0
+  - 11,64,168,world|1:0
+  - 11,65,168,world|3:0
+  - 11,66,168,world|3:0
+  - 10,64,168,world|3:0
+  - 10,65,168,world|3:0
+  - 10,66,168,world|3:0
+  - 12,64,169,world|1:0
+  - 12,65,169,world|1:0
+  - 12,66,169,world|3:0
+  - 11,64,169,world|1:0
+  - 11,65,169,world|3:0
+  - 11,66,169,world|3:0
+  - 10,64,169,world|3:0
+  - 10,65,169,world|3:0
+  - 10,66,169,world|3:0
+  time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- world: world
+  blocks:
+  - -10,64,142,world|3:0
+  - -10,65,142,world|2:0
+  - -10,64,141,world|2:0
+  - -11,64,142,world|3:0
+  - -11,65,142,world|3:0
+  - -11,66,142,world|2:0
+  - -11,64,141,world|3:0
+  - -11,65,141,world|3:0
+  - -11,66,141,world|2:0
+  - -11,64,140,world|3:0
+  - -11,65,140,world|2:0
+  - -12,64,142,world|3:0
+  - -12,65,142,world|3:0
+  - -12,66,142,world|3:0
+  - -12,64,141,world|3:0
+  - -12,65,141,world|3:0
+  - -12,66,141,world|3:0
+  - -12,64,140,world|3:0
+  - -12,65,140,world|3:0
+  - -12,66,140,world|3:0
+  - -13,64,142,world|3:0
+  - -13,65,142,world|3:0
+  - -13,66,142,world|3:0
+  - -13,64,141,world|3:0
+  - -13,65,141,world|3:0
+  - -13,66,141,world|2:0
+  - -13,67,141,world|31:1
+  - -13,64,140,world|3:0
+  - -13,65,140,world|2:0
+  - -14,64,142,world|3:0
+  - -14,65,142,world|3:0
+  - -14,66,142,world|2:0
+  - -14,67,142,world|31:1
+  - -14,64,141,world|3:0
+  - -14,65,141,world|3:0
+  - -14,66,141,world|2:0
+  - -14,64,140,world|3:0
+  - -14,65,140,world|2:0
+  - -15,64,142,world|3:0
+  - -15,65,142,world|3:0
+  - -15,66,142,world|2:0
+  - -15,64,141,world|3:0
+  - -15,65,141,world|2:0
+  - -15,64,140,world|2:0
+  - -15,65,140,world|31:1
+  - -16,64,142,world|3:0
+  - -16,65,142,world|3:0
+  - -16,66,142,world|2:0
+  - -16,64,141,world|3:0
+  - -16,65,141,world|2:0
+  - -16,64,140,world|2:0
+  - -17,64,142,world|3:0
+  - -17,65,142,world|2:0
+  - -17,64,141,world|2:0
+  - -17,64,140,world|2:0
+  time_to_live: 0
+  name: Tunnel
+- world: world
+  blocks:
+  - -6,64,148,world|3:0
+  - -6,65,148,world|3:0
+  - -6,66,148,world|2:0
+  - -6,64,147,world|3:0
+  - -6,65,147,world|2:0
+  - -6,64,146,world|2:0
+  - -7,64,148,world|3:0
+  - -7,65,148,world|3:0
+  - -7,66,148,world|3:0
+  - -7,64,147,world|3:0
+  - -7,65,147,world|3:0
+  - -7,66,147,world|2:0
+  - -7,64,146,world|3:0
+  - -7,65,146,world|2:0
+  - -8,64,148,world|3:0
+  - -8,65,148,world|3:0
+  - -8,66,148,world|3:0
+  - -8,64,147,world|3:0
+  - -8,65,147,world|3:0
+  - -8,66,147,world|3:0
+  - -8,64,146,world|3:0
+  - -8,65,146,world|3:0
+  - -8,66,146,world|3:0
+  - -9,64,148,world|1:0
+  - -9,65,148,world|3:0
+  - -9,66,148,world|3:0
+  - -9,64,147,world|3:0
+  - -9,65,147,world|3:0
+  - -9,66,147,world|3:0
+  - -9,64,146,world|3:0
+  - -9,65,146,world|3:0
+  - -9,66,146,world|3:0
+  - -10,64,148,world|1:0
+  - -10,65,148,world|3:0
+  - -10,66,148,world|3:0
+  - -10,64,147,world|1:0
+  - -10,65,147,world|3:0
+  - -10,66,147,world|3:0
+  - -10,64,146,world|1:0
+  - -10,65,146,world|3:0
+  - -10,66,146,world|3:0
+  - -11,64,148,world|1:0
+  - -11,65,148,world|1:0
+  - -11,66,148,world|3:0
+  - -11,64,147,world|1:0
+  - -11,65,147,world|3:0
+  - -11,66,147,world|3:0
+  - -11,64,146,world|1:0
+  - -11,65,146,world|3:0
+  - -11,66,146,world|3:0
+  - -12,64,148,world|1:0
+  - -12,65,148,world|1:0
+  - -12,66,148,world|3:0
+  - -12,64,147,world|1:0
+  - -12,65,147,world|1:0
+  - -12,66,147,world|3:0
+  - -12,64,146,world|1:0
+  - -12,65,146,world|3:0
+  - -12,66,146,world|3:0
+  - -13,64,148,world|1:0
+  - -13,65,148,world|1:0
+  - -13,66,148,world|3:0
+  - -13,64,147,world|1:0
+  - -13,65,147,world|1:0
+  - -13,66,147,world|3:0
+  - -13,64,146,world|1:0
+  - -13,65,146,world|1:0
+  - -13,66,146,world|3:0
+  time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Tunnel
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- world: world
+  time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+spells:
+  superbroom:
+    cast_count: 6
+    last_cast: 1713207982839
+    last_earn: 0
+    cooldown_expiration: 0
+  walls:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tame:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  wolf:
+    cast_count: 2
+    last_cast: 1713208014426
+    last_earn: 0
+    cooldown_expiration: 0
+  torch|4:
+    cast_count: 2
+    last_cast: 1713207905330
+    last_earn: 1713207905329
+    cooldown_expiration: 0
+  shrink:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  missile:
+    cast_count: 6
+    last_cast: 1713554477574
+    last_earn: 1713554460792
+    cooldown_expiration: 0
+  testdummy:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  torch:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+  tunnel:
+    cast_count: 3
+    last_cast: 1712950727161
+    last_earn: 0
+    cooldown_expiration: 0
+wands:
+  default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §6Magic Missile§f (§3Wand§f)
+        lore:
+        - §o§aBeginner Magic Wand
+        - '§eCooldown: §6A Moment'
+        - §o§3Bound to Zoomgotgame
+        - '§d§oMana: 50'
+        - '§r§dMana Regeneration: 5/s'
+        Unbreakable: true
+        ItemFlags: !!set
+          HIDE_PLACED_ON: null
+          HIDE_UNBREAKABLE: null
+          HIDE_POTION_EFFECTS: null
+          HIDE_ATTRIBUTES: null
+          HIDE_DESTROYS: null
+        internal: H4sIAAAAAAAA/2WRO3PbMBCEb2zaZixNHo1rFypNDQiSItG5SZnaM2k4eBwoTEgCIcFIPz9HxXKT8m5w++0uHgEeITnJ0aRw508jTrD56f3Q+djJAVNIIw6hlxHhwaCVSx9TuD+HdpBnSCq2Zyl8oXHCDulYRudHuK3W9RNaizq2QU7R6R5bb+2MEW7ZviDdC6x1BnaKF7lqtMqEYCIrapFnglmTaWV4hZYfjLDkTvllNJDEaSFbidMESk/em/boabExOOvJhYuBr7sg4/H5h+ycfn67hPvPzSSNW+bVDU/hsxvpnqR1dKrHK2Uraf6D7Ryw7+FhcPPs+pW+ykOqsHMjpaCHVEF0A0nIIcC3fF/nRVVVnJe8Lr/nRNi+87Xv/QS7srCIQknRmBd10JqJUpWcm5emUsoW2kiUxPmFGD4ij/QhkPyLc3MO1/rvfi9urTVfh5u1UKZFaYuDyMrm0GSlsFQtr+sMkRvGjBbMkN79JdUMn95jvdL59uijkhO5XMar5IZqn3wI8qMYgL+hiH7pNwIAAA==
+    wand:
+      active_spell: missile
+      path: beginner
+      template: default
+      xp: 50.0
+      xp_regeneration: 5.0
+      xp_max: 50.0
+      bound: true
+      indestructible: true
+      undroppable: true
+      effect_color: 43fee9ba98d,b6cc094b422d,85bbf3cdaea
+      effect_particle_radius: 0.2
+      effect_particle_offset: 0.3
+      hotbar_count: 1.0
+      icon: wood_hoe
+      keep: true
+      quiet: 1.0
+      spells: missile@0
+      id: 0c94f369-4868-49fb-9277-ee2d00dc90de
+      owner: Zoomgotgame
+      owner_id: b231b8cb-9909-3791-90fd-cbd25ef26d9f
+      name: Wand
+      description: $path Magic Wand
+      xp_timestamp: 1.713555224274E12
+open_wand: false
+gave_welcome_wand: false
+data:
+  sp: 29
