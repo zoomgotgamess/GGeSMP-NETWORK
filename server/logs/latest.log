@@ -376,3 +376,150 @@ org.bukkit.plugin.UnknownDependencyException: PluginLibrary
 [12:06:36] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Checking for updates...
 [12:06:36] [PvPManager Worker Thread - 0/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;32;1mUpdate available: [0;31;1m3.18.1 [0;32;1mCurrent version: [0;31;1m3.18[m
 
+[12:06:36] [PvPManager Worker Thread - 0/INFO]: [0;31;1m[[0;30;1mPvPManager[0;31;1m] [0;32;1mUpdate downloaded to update folder, it will be applied automatically on the next restart[m
+
+[12:06:38] [Server thread/INFO]: [Magic] Enabling Magic v5.5.6
+[12:06:38] [Server thread/INFO]: [Magic] EffectLib initialized
+[12:06:38] [Server thread/INFO]: [Magic] Loading config.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/config.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading messages.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/messages.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading materials.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/materials.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading spells.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/spells.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading enchanting.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/enchanting.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading wands.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/wands.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading crafting.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/crafting.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading mobs.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/mobs.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Loading items.yml
+[12:06:38] [Server thread/INFO]: [Magic]  Based on defaults defaults/items.defaults.yml
+[12:06:38] [Server thread/INFO]: [Magic] Wand enchanting is enabled
+[12:06:38] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[12:06:38] [Server thread/INFO]: [Magic] Wand anvil organizing is enabled
+[12:06:38] [Server thread/INFO]: [Magic] Skin-based custom icons enabled
+[12:06:38] [Server thread/INFO]: [Magic] Loaded 37 items
+[12:06:38] [Server thread/INFO]: [Magic] Loaded 11 mob templates
+[12:06:39] [Server thread/INFO]: [Magic] Loaded 358 spells
+[12:06:39] [Server thread/INFO]: [Magic] Loaded 14 enchanting paths
+[12:06:39] [Server thread/INFO]: [Magic] Loaded 104 wands
+[12:06:39] [Server thread/INFO]: [Magic] Loaded 16 crafting recipes
+[12:06:39] [Server thread/INFO]: [Magic] BlockPhysics not found- install BlockPhysics for physics-based block effects
+[12:06:39] [Server thread/INFO]: [Magic] LibsDisguises not found
+[12:06:39] [Server thread/INFO]: [Magic] Vault not found, virtual economy unavailable
+[12:06:39] [Server thread/INFO]: [Magic] Integrating with Essentials for Recall warps
+[12:06:39] [Server thread/INFO]: [Magic] dtlTraders not found, will not integrate.
+[12:06:39] [Server thread/INFO]: [Magic] Factions not found, will not integrate.
+[12:06:39] [Server thread/INFO]: [Magic] WorldGuard not found, region protection and pvp checks will not be used.
+[12:06:39] [Server thread/INFO]: [Magic] PvPManager found, will respect PVP settings
+[12:06:39] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[12:06:39] [Server thread/INFO]: [Magic] Lockette not found, will not integrate.
+[12:06:39] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[12:06:39] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
+[12:06:39] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[12:06:39] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[12:06:39] [Server thread/INFO]: [Magic] Activated MCStats
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for goggles
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardhelmet
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticehelmet
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardboots
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeboots
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardleggings
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticeleggings
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for magichat
+[12:06:39] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SPADE
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for broomstick
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for divinghelmet
+[12:06:39] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_SWORD
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for battle
+[12:06:39] [Server thread/INFO]: [Magic] Disabled default crafting recipe for WOOD_HOE
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for default
+[12:06:39] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_HOE
+[12:06:39] [Server thread/INFO]: [Magic] Disabled default crafting recipe for GOLD_AXE
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for wizardchestplate
+[12:06:39] [Server thread/INFO]: [Magic] Adding crafting recipe for apprenticechestplate
+[12:06:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:06:39] [Server thread/INFO]: Done (11.739s)! For help, type "help" or "?"
+[12:06:39] [Server thread/INFO]: Timings Reset
+[12:06:39] [Craft Scheduler Thread - 0/INFO]: §6Fetching version information...
+[12:06:39] [Craft Scheduler Thread - 1/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[12:06:39] [Craft Scheduler Thread - 1/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[12:06:39] [Craft Scheduler Thread - 1/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[12:06:39] [Craft Scheduler Thread - 1/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[12:06:39] [Craft Scheduler Thread - 2/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[12:06:39] [Craft Scheduler Thread - 2/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[12:06:39] [Craft Scheduler Thread - 2/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
+[12:06:39] [Server thread/WARN]: java.lang.NoClassDefFoundError: com/earth2me/essentials/ItemDb
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:193)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:98)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+
+[12:06:39] [Server thread/WARN]: 	at com.elmakers.mine.bukkit.magic.MagicController$3.run(MagicController.java:839)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[12:06:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:783)
+
+[12:06:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+
+[12:06:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[12:06:39] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[12:06:39] [Server thread/WARN]: Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.ItemDb
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:102)
+
+[12:06:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:87)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+
+[12:06:39] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+
+[12:06:39] [Server thread/WARN]: 	... 22 more
+
+[12:06:40] [Server thread/INFO]: [Magic] Loading lost wand data
+[12:06:40] [Server thread/INFO]: [Magic] Loaded 0 lost wands
+[12:06:40] [Server thread/INFO]: [Magic] Loading automata data
+[12:06:40] [Server thread/INFO]: [Magic] Loaded 0 automata
+[12:06:40] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[12:06:40] [Server thread/INFO]: [Magic] Loaded 0 image maps
+[12:06:40] [Server thread/INFO]: [Magic] Finished loading data.
