@@ -10,5 +10,11 @@
     "name": "Zoomgotgame",
     "level": 100,
     "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "c977162d-625a-390c-80dd-31d549734f8b",
+    "name": "ihatemonkeys",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

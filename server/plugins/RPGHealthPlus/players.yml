@@ -17,5 +17,9 @@ player-storage:
     xp-needed: 400
   d8195f8b-abda-3d31-9c6b-ec9350b32262:
     hp: 20
+    xp: 2.0
+    xp-needed: 400
+  c977162d-625a-390c-80dd-31d549734f8b:
+    hp: 20
     xp: 0.0
     xp-needed: 400

@@ -1,0 +1,23 @@
+portals:
+  por1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Zoomgotgame
+    location: 243.0,31.0,102.0:245.0,33.0,102.0
+    world: world
+    destination: p:por2
+  por2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Zoomgotgame
+    location: 244.0,69.0,46.0:244.0,72.0,52.0
+    world: world
+    destination: p:por1

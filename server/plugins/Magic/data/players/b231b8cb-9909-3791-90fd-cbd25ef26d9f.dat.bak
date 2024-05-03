@@ -1,8 +1,8 @@
 id: b231b8cb-9909-3791-90fd-cbd25ef26d9f
 name: Zoomgotgame
-last_cast: 1713554477573
+last_cast: 1714419156139
 cooldown_expiration: 0
-last_death_location: -99.96392959062969,70.0,233.44402488994226,world,185.85002,12.150001
+last_death_location: 125.5,37.0,136.5,world,-73.20006,3.1499906
 fall_protection_count: 0
 fall_protection: 0
 brush:
@@ -267,6 +267,10 @@ undo:
   name: Magic Missile
 - time_to_live: 0
   name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
+- time_to_live: 0
+  name: Magic Missile
 spells:
   superbroom:
     cast_count: 6
@@ -300,7 +304,7 @@ spells:
     cooldown_expiration: 0
   missile:
     cast_count: 6
-    last_cast: 1713554477574
+    last_cast: 1714419156140
     last_earn: 1713554460792
     cooldown_expiration: 0
   testdummy:
@@ -340,18 +344,18 @@ wands:
           HIDE_POTION_EFFECTS: null
           HIDE_ATTRIBUTES: null
           HIDE_DESTROYS: null
-        internal: H4sIAAAAAAAA/2WRO3PbMBCEb2zaZixNHo1rFypNDQiSItG5SZnaM2k4eBwoTEgCIcFIPz9HxXKT8m5w++0uHgEeITnJ0aRw508jTrD56f3Q+djJAVNIIw6hlxHhwaCVSx9TuD+HdpBnSCq2Zyl8oXHCDulYRudHuK3W9RNaizq2QU7R6R5bb+2MEW7ZviDdC6x1BnaKF7lqtMqEYCIrapFnglmTaWV4hZYfjLDkTvllNJDEaSFbidMESk/em/boabExOOvJhYuBr7sg4/H5h+ycfn67hPvPzSSNW+bVDU/hsxvpnqR1dKrHK2Uraf6D7Ryw7+FhcPPs+pW+ykOqsHMjpaCHVEF0A0nIIcC3fF/nRVVVnJe8Lr/nRNi+87Xv/QS7srCIQknRmBd10JqJUpWcm5emUsoW2kiUxPmFGD4ij/QhkPyLc3MO1/rvfi9urTVfh5u1UKZFaYuDyMrm0GSlsFQtr+sMkRvGjBbMkN79JdUMn95jvdL59uijkhO5XMar5IZqn3wI8qMYgL+hiH7pNwIAAA==
+        internal: H4sIAAAAAAAA/22QPW/bMBCGD4nqqHHQjyVzhqBTZIgiJZlbl46ZC3QR+HG0iUoiK1G1f35PzsfUkYfjvc/73ALcQnZSo80hTzjEXiWEG4tOLX3K4UM4jTjB9lcIwyGkgxowh805doM6Q1aXuzKHz/Sc8IC0qJIPI1zX6/genUOTuqim5E2PXXBuxgTX5Y5T2OVw5y086oozvTe6kLKUBW8lK2TpbGG0rWp0VWOlIxIdltFClqaFEDJvKCg/hWC7Y8D/pE3K+mVe06octhZnM/l4wfvyGFU6PjyrgzcPPy/VP/mRNui0SV73+JZyp+j9F7s5Yt/DzeDn2fdr+noAco0HP1ILWiQFyQ90Qg0RvrJdy4RgktWS8eoHI4K7Vz4T+jDBt70VUlTMNFK4p1ZwwUrDy6qVT5bLumwZ11quSb8R43vpkfRD9oJ8dY6wEdVOyJrk/Fn8qpat4q9WqWKveSkaLGqnRSGkZcWe1bzgumkqaRunGk1Ux5C0mohqGd++by5tZ/j4Wvc7zbakfgoxqnc5AP8A+GOAcjsCAAA=
     wand:
       active_spell: missile
       path: beginner
       template: default
-      xp: 50.0
+      xp: 42.495
       xp_regeneration: 5.0
       xp_max: 50.0
       bound: true
       indestructible: true
       undroppable: true
-      effect_color: 43fee9ba98d,b6cc094b422d,85bbf3cdaea
+      effect_color: 8d49421c694f,743410c30279,d3950713bb9e
       effect_particle_radius: 0.2
       effect_particle_offset: 0.3
       hotbar_count: 1.0
@@ -359,12 +363,12 @@ wands:
       keep: true
       quiet: 1.0
       spells: missile@0
-      id: 0c94f369-4868-49fb-9277-ee2d00dc90de
+      id: 48b3046e-5fb4-49d1-8153-3b6629d6fa6b
       owner: Zoomgotgame
       owner_id: b231b8cb-9909-3791-90fd-cbd25ef26d9f
       name: Wand
       description: $path Magic Wand
-      xp_timestamp: 1.713555224274E12
+      xp_timestamp: 1.714419159132E12
 open_wand: false
 gave_welcome_wand: false
 data:

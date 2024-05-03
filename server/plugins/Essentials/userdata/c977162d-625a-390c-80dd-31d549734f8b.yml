@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714742009129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714742186733
+  login: 1714741615499
+money: '0'
+last-account-name: ihatemonkeys
+lastlocation:
+  world: a53aa0e4-0dad-4d4b-8829-060b8c2699d9
+  world-name: world
+  x: 128.26704499221967
+  y: 63.0
+  z: 133.69999998807907
+  yaw: -262.35003662109375
+  pitch: 18.750001907348633
+logoutlocation:
+  world: 917cebba-fc5e-4de9-935c-68f00fd4b5cc
+  world-name: world12
+  x: 183.705134922723
+  y: 79.0
+  z: 179.41790755610975
+  yaw: -32.85003662109375
+  pitch: -9.15001106262207
